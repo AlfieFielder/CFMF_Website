@@ -16,7 +16,7 @@
                 <br />
                 <img src="images/cfmf2.jpg" alt="CFMF2" style="width:250px;height:180px;margin-bottom:30px;" />
                 <br />
-                <img src="images/cfmf3.jpg" alt="CFMF3" style="width:250px;height:180px;" />
+                <img src="images/cfmf3.jpg" alt="CFMF3" style="width:250px;height:180px;margin-bottom:30px;" />
                 
 
             </div>
@@ -35,14 +35,13 @@
 
                 <p>Claire’s life was short, she was just 30 when she died, but her impact was great and she will never be forgotten by anyone who knew her. This Memorial fund has been set up in tribute to Claire’s generous nature so that we can give to people who need it in the name of someone who gave so much to us.</p>
             
-                <h4 align="center"><a href="#"><u>Click here to know more about Claire...</u></a></h4>
+                <h4 align="center"><a href="get-to-know-claire.aspx"><u>Click here to know more about Claire...</u></a></h4>
 
 
             </div>
 
         </div>
     </div>
-
 
 
 
