@@ -68,15 +68,32 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HtmlPage1.html" />
+    <Content Include="events2.aspx" />
+    <Content Include="events1.aspx" />
+    <Content Include="images\cfmf4.jpg" />
     <Content Include="images\cfmf_logo.png" />
+    <Content Include="images\thankyou_carousel\corsi.jpg" />
+    <Content Include="images\thankyou_carousel\dfds.jpg" />
+    <Content Include="images\fb.png" />
     <Content Include="images\grass1.jpg" />
+    <Content Include="images\thankyou_carousel\hollywood_bowl.jpg" />
+    <Content Include="images\thankyou_carousel\bates.jpg" />
+    <Content Include="images\thankyou_carousel\d2t.png" />
+    <Content Include="images\thankyou_carousel\leeds.jpg" />
+    <Content Include="images\thankyou_carousel\tag.jpg" />
+    <Content Include="images\thankyou_carousel\wessex.jpg" />
+    <Content Include="images\twit.png" />
     <Content Include="MasterPage.master" />
     <Content Include="css\.DS_Store" />
     <Content Include="css\bootstrap.css.map" />
     <Content Include="css\style.css.map" />
     <Content Include="js\.DS_Store" />
     <Content Include="TheTeam.aspx" />
+    <Content Include="governance.aspx" />
+    <Content Include="money.aspx" />
+    <Content Include="events.aspx" />
+    <Content Include="get-involved.aspx" />
+    <Content Include="thankyou.aspx" />
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.0.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.0.0.min.map" />
@@ -165,6 +182,20 @@
     <Content Include="Scripts\popper-utils.js.map" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="events2.aspx.cs">
+      <DependentUpon>events2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="events2.aspx.designer.cs">
+      <DependentUpon>events2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="events1.aspx.cs">
+      <DependentUpon>events1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="events1.aspx.designer.cs">
+      <DependentUpon>events1.aspx</DependentUpon>
+    </Compile>
     <Compile Include="MasterPage.master.cs">
       <DependentUpon>MasterPage.master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -200,6 +231,41 @@
     </Compile>
     <Compile Include="TheTeam.aspx.designer.cs">
       <DependentUpon>TheTeam.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="governance.aspx.cs">
+      <DependentUpon>governance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="governance.aspx.designer.cs">
+      <DependentUpon>governance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="money.aspx.cs">
+      <DependentUpon>money.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="money.aspx.designer.cs">
+      <DependentUpon>money.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="events.aspx.cs">
+      <DependentUpon>events.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="events.aspx.designer.cs">
+      <DependentUpon>events.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="get-involved.aspx.cs">
+      <DependentUpon>get-involved.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="get-involved.aspx.designer.cs">
+      <DependentUpon>get-involved.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="thankyou.aspx.cs">
+      <DependentUpon>thankyou.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="thankyou.aspx.designer.cs">
+      <DependentUpon>thankyou.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

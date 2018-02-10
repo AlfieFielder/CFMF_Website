@@ -48,11 +48,11 @@
                         <ul class="sf-menu" id="fh5co-primary-menu">
                             <li class="active"><a href="Default.aspx">Home</a></li>
                             <li><a href="TheCFMF.aspx">The CFMF</a></li>
-                            <li><a href="#">The Team</a></li>
-                            <li><a href="#">Money</a></li>
-                            <li><a href="#">Events</a></li>
-                            <li><a href="#">Get Involved</a></li>
-                            <li><a href="#">Thank you</a></li>
+                            <li><a href="TheTeam.aspx">The Team</a></li>
+                            <li><a href="money.aspx">Money</a></li>
+                            <li><a href="events.aspx">Events</a></li>
+                            <li><a href="get-involved.aspx">Get Involved</a></li>
+                            <li><a href="thankyou.aspx">Thank you</a></li>
                         </ul>
                     </nav>
                 </div>
