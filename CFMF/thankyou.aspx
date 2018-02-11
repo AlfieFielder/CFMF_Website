@@ -35,49 +35,49 @@
 
             <div class="services animate-box">
 
-                <img src="images/thankyou_carousel/tag.jpg" />
+                <img src="images/thankyou/tag.jpg" />
 
             </div>
 
             <div class="services animate-box">
 
-                <img src="images/thankyou_carousel/d2t.png" />
+                <img src="images/thankyou/d2t.png" />
 
             </div>
 
             <div class="services animate-box">
 
-                <img src="images/thankyou_carousel/bates.jpg" />
+                <img src="images/thankyou/bates.jpg" />
 
             </div>
 
             <div class="services animate-box">
 
-                <img src="images/thankyou_carousel/corsi.jpg" />
+                <img src="images/thankyou/corsi.jpg" />
 
             </div>
 
             <div class="services animate-box">
 
-                <img src="images/thankyou_carousel/dfds.jpg" />
+                <img src="images/thankyou/dfds.jpg" />
 
             </div>
 
             <div class="services animate-box">
 
-                <img src="images/thankyou_carousel/hollywood_bowl.jpg" />
+                <img src="images/thankyou/hollywood_bowl.jpg" />
 
             </div>
 
             <div class="services animate-box">
 
-                <img src="images/thankyou_carousel/leeds.jpg" />
+                <img src="images/thankyou/leeds.jpg" />
 
             </div>
 
             <div class="services animate-box">
 
-                <img src="images/thankyou_carousel/wessex.jpg" />
+                <img src="images/thankyou/wessex.jpg" />
 
             </div>
 
