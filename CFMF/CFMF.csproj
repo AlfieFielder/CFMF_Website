@@ -72,6 +72,8 @@
     <Content Include="events1.aspx" />
     <Content Include="images\cfmf4.jpg" />
     <Content Include="images\cfmf_logo.png" />
+    <Content Include="images\icons\Facebook_icon.jpg" />
+    <Content Include="images\icons\Twitter_Icon.png" />
     <Content Include="images\thankyou\corsi.jpg" />
     <Content Include="images\thankyou\dfds.jpg" />
     <Content Include="images\fb.png" />
@@ -94,6 +96,7 @@
     <Content Include="events.aspx" />
     <Content Include="get-involved.aspx" />
     <Content Include="thankyou.aspx" />
+    <Content Include="Gallery.aspx" />
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.0.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.0.0.min.map" />
@@ -267,12 +270,22 @@
     <Compile Include="thankyou.aspx.designer.cs">
       <DependentUpon>thankyou.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Gallery.aspx.cs">
+      <DependentUpon>Gallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Gallery.aspx.designer.cs">
+      <DependentUpon>Gallery.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\index.d.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\gallery\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
