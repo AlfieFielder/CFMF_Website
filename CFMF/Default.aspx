@@ -6,8 +6,7 @@
 	    <div class="fh5co-overlay"></div>
 	    <div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/grass1.jpg);">
 		    <div class="desc animate-box">
-			    <h2><strong>Donate</strong> to the <strong> Claire Foster Memorial Fund </strong></h2>
-			    <span><a class="btn btn-primary btn-lg" href="#">Donate Now</a></span>
+			    <h2>Donate to The Claire Foster Memorial Fund</h2>
 		    </div>
 	    </div>
     </div>
@@ -18,13 +17,10 @@
 					<div class="col-md-4">
 
 						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-profile-male"></i>
-							</span>
 							<div class="feature-copy">
-								<h3>Become a volunteer</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-								<p><a href="#">Learn More</a></p>
+								<h3>Meet the team!</h3>
+								<p>Click below to learn more about the team behind The Claire Foster Memorial Fund.</p>
+								<a class="btn btn-primary" href="TheTeam.aspx">Learn More</a>
 							</div>
 						</div>
 
@@ -32,26 +28,20 @@
 
 					<div class="col-md-4">
 						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-happy"></i>
-							</span>
 							<div class="feature-copy">
-								<h3>Happy Giving</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-								<p><a href="#">Learn More</a></p>
+								<h3>Learn more about Claire!</h3>
+								<p>Click below to learn more about Claire and why the Claire Foster Memorial Fund exists.</p>
+								<a class="btn btn-primary" href="TheCFMF.aspx">Learn More</a>
 							</div>
 						</div>
 
 					</div>
 					<div class="col-md-4">
 						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-wallet"></i>
-							</span>
 							<div class="feature-copy">
-								<h3>Donation</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-								<p><a href="#">Learn More</a></p>
+								<h3>Our Events!</h3>
+								<p>Click below to see some of our upcoming and previous events.</p>
+								<a class="btn btn-primary" href="events.aspx">Learn More</a>
 							</div>
 						</div>
 					</div>
@@ -68,17 +58,6 @@
 					</div>
 				</div>
 
-				<div class="row row-bottom-padded-md">
-					<div class="col-md-12 text-center animate-box">
-						<p><img src="images/cover_bg_1.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive"></p>
-					</div>
-					<div class="col-md-6 text-center animate-box">
-						<p><img src="images/cover_bg_2.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive"></p>
-					</div>
-					<div class="col-md-6 text-center animate-box">
-						<p><img src="images/cover_bg_3.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive"></p>
-					</div>
-				</div>
 				<div class="row">
 					<div class="col-md-4">
 						<div class="feature-text">

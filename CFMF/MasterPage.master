@@ -42,17 +42,18 @@
             <div class="container">
                 <div class="nav-header">
                     <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle dark"><i></i></a>
-                    <h1 id="fh5co-logo"><a href="Default.aspx">The Claire Foster Memorial Fund</a></h1>
+                    <h1 id="fh5co-logo"><a href="Default.aspx">The CFMF</a></h1>
                     <!-- menu wrap -->
                     <nav id="fh5co-menu-wrap" role="navigation">
                         <ul class="sf-menu" id="fh5co-primary-menu">
-                            <li class="active"><a href="Default.aspx">Home</a></li>
+                            <li><a href="Default.aspx">Home</a></li>
                             <li><a href="TheCFMF.aspx">The CFMF</a></li>
                             <li><a href="TheTeam.aspx">The Team</a></li>
                             <li><a href="money.aspx">Money</a></li>
                             <li><a href="events.aspx">Events</a></li>
                             <li><a href="get-involved.aspx">Get Involved</a></li>
                             <li><a href="thankyou.aspx">Thank you</a></li>
+                            <li><a class="btn" href="#">Donate now!</a></li>
                         </ul>
                     </nav>
                 </div>
