@@ -35,6 +35,14 @@
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
+        <style>
+
+            #footer_text {
+               font-size: 10px !important;
+            }
+
+        </style>
+
 	</head>
 
     <body>
@@ -54,7 +62,7 @@
                             <li><a href="events.aspx">Events</a></li>
                             <li><a href="get-involved.aspx">Get Involved</a></li>
                             <li><a href="thankyou.aspx">Thank you</a></li>
-                            <li><a class="btn" href="#">Donate now!</a></li>
+                            <li><a class="btn" href="Donate-now.aspx">Donate now!</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -77,6 +85,8 @@
                                 <a href="https://www.facebook.com/ClaireFosterFund"><img src="images/icons/Facebook_icon.jpg" style="height:40px;"/></a>
                                 <a href="https://twitter.com/ClaireFoster12"><img src="images/icons/Twitter_Icon.png" style="height:40px;"/></a>
 							</p>
+
+                            <p id="footer_text">Peeple is a registered charity no. 114495 in England / Wales and no. SCO44031 in Scotland, and a company limited by guarantee no. 7514469. Peep Learning Ltd is the trading subsidiary of Peeple, company registration no.04089209 and VAT no. 768 4173 94.  Registered address: The Peeple Centre, Littlemore, Oxford OX4 6JZ.</p>
 						</div>
 					</div>
 				</div>
